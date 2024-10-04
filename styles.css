@@ -1,0 +1,29 @@
+body {
+    /* background-color: pink; */
+    background-image: url("https://png.pngtree.com/background/20220731/original/pngtree-baby-pink-light-background-picture-image_1908980.jpg");
+    /* background-repeat: no-repeat; */
+    background-size: auto;
+}
+
+.menu {
+    background: white;
+}
+
+.menu ul {
+    display: flex;
+
+}
+
+.menu li {
+    list-style: none;
+}
+
+a {
+   text-decoration: none;
+   color:black; 
+}
+
+a:hover {
+    text-decoration: underline;
+    color: gray;
+}
